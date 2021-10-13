@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "gui/before",
+        "gui/after",
+        "txt"
+    ]
+}
