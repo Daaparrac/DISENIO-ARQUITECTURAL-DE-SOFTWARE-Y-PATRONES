@@ -9,7 +9,7 @@ class LoggerClient {
     
     logger.log("log1.txt","Cifrado simple de un mensaje: ");
     eLogger.log("log1.txt",
-                "Este mensaje será cifrado de manera simple y registrado en el archivo log1.txt");
+				"Este mensaje será cifrado de manera simple y registrado en el archivo log1.txt");
     logger.log("log1.txt","***********************************************************************");
     EncryptionStrategy strategySubstF = new SubstitutionCypher();
     eLogger.setEncryptionStrategy(strategySubstF);

@@ -1,0 +1,4 @@
+
+Cifrado simple de un mensaje: 
+tEste mensaje será cifrado de manera simple y registrado en el archivo log1.tx
+***********************************************************************
